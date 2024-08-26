@@ -729,7 +729,7 @@ a {
 
 .nav__toggler {
     opacity: 0.5;
-    transition: all O.15s;
+    transition: all 0.15s;
     cursor: pointer;
 }
 
